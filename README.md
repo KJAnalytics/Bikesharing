@@ -23,3 +23,18 @@ Based on the NYC data, there is support for an investment in the bike sharing bu
   - Does the community support cycling trails or other safe biking options?
   - Considering the NYC data, if seasonality, will this relate to the area being considered? Longer or shorter cold seasons.
   - What does the rental bike options entail?  Recreational user versus traveling cyclists choosing to rent at their destination.
+  
+  https://github.com/KJAnalytics/Bikesharing/blob/main/images/Customer%20subscriber%20status.png
+  
+  https://github.com/KJAnalytics/Bikesharing/blob/main/images/Peak%20Checkout%20times.png
+  
+  https://github.com/KJAnalytics/Bikesharing/blob/main/images/Peak%20Hours%20of%20Use.png
+  
+  https://github.com/KJAnalytics/Bikesharing/blob/main/images/Peak%20checkout%20by%20gender.png
+  
+  https://github.com/KJAnalytics/Bikesharing/blob/main/images/Trips%20by%20Gender%20by%20weekday.png
+  
+https://github.com/KJAnalytics/Bikesharing/blob/main/images/Trips%20by%20Gender.png
+
+https://github.com/KJAnalytics/Bikesharing/blob/main/images/Trips%20by%20day%20and%20hour.png
+  
